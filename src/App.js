@@ -8,7 +8,7 @@ export default class App {
 	 */
 	static main() {
 		console.log("Je suis prêt");
-		document.getElementById("app").innerHTML = "La page est chargée";
+		document.getElementById("app").innerHTML = "Bonjour";
 	}
 	/**
 	 * Méthode qui permet d'attendre le chargement de la page avant d'éxécuter le script principal
